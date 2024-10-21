@@ -1,0 +1,44 @@
+#Assignment(Variable and list):
+#Question1
+a=1
+b=1.0
+c='1'
+print(a)
+print(b)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
+print(a,type(a))      #tried this way answer is coming
+print(b,type(b))
+print(c,type(c))
+#Question2
+a=2
+print(a)
+a=2.0
+print(a)
+a='2'
+print(a)
+#Print will be give result as per input no need to define variable type.
+#Question3
+a=b=c=10
+print(a)
+print(b)
+print(c)
+print(a,b,c)
+#Question4
+a=20
+b=25
+c=a+b
+print(c)
+print(a+b)
+#Question5
+Fruits=["Apple","Grapes","Orange","Banana","Mango"]
+print(Fruits)
+#Question6
+table=[5,10,15,20,25]
+print(table[1],table[3])
+#Question7
+numbers=[10,20,30,40,50]
+numbers[2]=35
+print(numbers)
